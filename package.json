@@ -1,0 +1,28 @@
+{
+    "name": "dark-discord-vscode",
+    "publisher": "akis",
+    "displayName": "Dark Discord VSCode",
+    "description": "A VSCode theme based on eternal's \"Dark Discord\" Discord theme.",
+    "version": "1.0.0",
+    "license": "MIT",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/akisblack/dark-discord-vscode.git"
+    },
+    "icon": "assets/icon.png",
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dark Discord",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dark-discord-vscode-color-theme.json"
+            }
+        ]
+    }
+}
