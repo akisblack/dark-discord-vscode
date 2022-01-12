@@ -7,7 +7,7 @@
 
 ## Preview
 
-![Preview](assets/preview.jpg)
+![Preview](assets/preview.png)
 
 ## Install
 
