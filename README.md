@@ -3,7 +3,7 @@
 
 ![GitHub](https://img.shields.io/github/license/akisblack/dark-discord-vscode?style=for-the-badge)
 
-### A VSCode theme based on [eternal's](https://github.com/slow) "Dark Discord" Discord theme.
+### A VSCode theme based on [eternal's](https://github.com/eternal404) "Dark Discord" Discord theme.
 
 ## Preview
 
