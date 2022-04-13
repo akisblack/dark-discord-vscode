@@ -3,7 +3,7 @@
     "publisher": "akis",
     "displayName": "Dark Discord VSCode",
     "description": "A VSCode theme based on eternal's \"Dark Discord\" Discord theme.",
-    "version": "2.0.1",
+    "version": "2.0.2",
     "license": "MIT",
     "engines": {
         "vscode": "^1.63.0"
